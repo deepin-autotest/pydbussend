@@ -1,2 +1,2 @@
-# youqu-dbus
+# PyDBusSend
 D-Bus 操控插件
